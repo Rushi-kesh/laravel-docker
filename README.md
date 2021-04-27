@@ -24,4 +24,4 @@ Three additional containers are included that handle Composer, NPM, and Artisan 
 
 - `docker-compose run --rm composer update`
 - `docker-compose run --rm artisan migrate` 
-- - `docker-compose run --rm artisan db-seed` 
+- `docker-compose run --rm artisan db-seed` 
